@@ -11,7 +11,7 @@ using Microsoft.Owin.Security;
 using AppMvc.Models;
 
 namespace AppMvc.Controllers
-{
+{ //Teste
     [Authorize]
     public class AccountController : Controller
     {
